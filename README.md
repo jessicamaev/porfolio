@@ -1,3 +1,3 @@
 # portfolio
 
-This is my portfolio
+Welcome. Thank you for visiting my page. 
