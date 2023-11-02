@@ -564,12 +564,14 @@ section {
         transform: translateX(100%);
     }
 
+
+
     .header .navbar.show {
         transform: translateX(0)
     }
 
     .header .navbar a {
-        color: var(--dark-gray);
+        color: var(--white);
         margin: 0;
         font-size: 2rem;
         margin: 2rem 0;
