@@ -14,7 +14,7 @@
 :root {
     --white: #fff;
     --dark-gray: #545252;
-    --yellow:#A2D450; 
+    --yellow: #A2D450;
     --purple: #8567A2;
     --box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);
     --fadeIn: 0.7s ease both;
@@ -84,7 +84,7 @@ section {
 
 }
 
-.btn:hover{
+.btn:hover {
     background-color: #A2D450;
     color: var(--dark-gray);
 }
@@ -295,7 +295,7 @@ section {
     text-transform: none;
 }
 
-.about .box-container .box .hamont {
+.about .box-container .box .bold {
     text-decoration: wavy;
     color: var(--purple);
     font-size: 2rem;
