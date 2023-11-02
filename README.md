@@ -1,3 +1,5 @@
 # portfolio
 
-Welcome. Thank you for visiting my page. 
+Welcome to my GitHub. 
+
+[Explore my portfolio](https://jessicamaev.github.io/porfolio/)
